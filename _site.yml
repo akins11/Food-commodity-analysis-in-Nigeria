@@ -1,0 +1,12 @@
+name: "Nigeria-Food-Commodity-Price-Analysis-From-2017-2021"
+output_dir: "docs"
+output:
+  html_document:
+    theme: sandstone
+navbar:
+  title: "Nigeria Food Commodity Price Analysis From 2017 - 2021"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html

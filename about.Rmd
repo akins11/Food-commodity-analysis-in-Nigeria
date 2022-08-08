@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+The data can be found in the [National Bureau of Statistics](https://nigerianstat.gov.ng/elibrary/read/1241119) website, it contains the record of prices of various commodities in all state including the capital in Nigeria.   
+The analysis was conducted on the 26th of match 2022.  
+  
+<br>
+
+### Reason for the analysis.  
+
+The food commodity analysis was conducted majorly to practice and build up my data analysis skills using R and the tidyverse by automating repetitive tasks using functions to explore and understand major trends and pattern in the data.     
+  
+**Author:** Akinwande Ayomide.  
+
+
